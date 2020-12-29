@@ -2,7 +2,7 @@
 description: Mobile App for Wacheat project.
 ---
 
-# Wacheat
+# Wacheats
 
 ## Before Doing Magic
 

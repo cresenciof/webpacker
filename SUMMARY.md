@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Wacheat](README.md)
+* [Wacheats](README.md)
 
